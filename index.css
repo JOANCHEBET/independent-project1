@@ -21,19 +21,26 @@ div{
 #text{
     text-align: right;
     position: absolute;
-     background-color: #EC4067
+     
 
 
 }
-/*container holding the image and text*/
-.container{
-    position: horizontal;
-    text-align: bottom_left;
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
     color: white;
-}
-
-/* Bottom left text */
-.bottom-left {
+  }
+  
+  /* Bottom left text */
+  .bottom-left {
     position: absolute;
     bottom: 8px;
     left: 16px;
+  }
+  .top_right{
+      position: top_right;
+      color:#EC4067
+  }
+  
+  
