@@ -31,3 +31,9 @@ div{
     text-align: bottom_left;
     color: white;
 }
+
+/* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
