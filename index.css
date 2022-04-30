@@ -25,3 +25,9 @@ div{
 
 
 }
+/*container holding the image and text*/
+.container{
+    position: horizontal;
+    text-align: bottom_left;
+    color: white;
+}
