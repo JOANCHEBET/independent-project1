@@ -54,9 +54,45 @@ div{
   
 div{
     align-items: horizontal;
-    text-align: center;
+    text-align: horizontal;
+    float: left right;
+    
+
 
 }
-div{
-    text-align: center;
+.parent-div {
+
+align-self: right;
+
+display: flex;
+
+align-items: top_right;
+
 }
+.type{
+    background-color: #EC4067;
+}
+#nav_bar ol {
+    list-style: none;
+    padding: 1em 0;
+    align= right: 1em o;
+    
+  }
+  #nav_bar ol {
+    display: inline;
+  }
+  #nav_bar a {
+    padding: 1em 2em;
+
+    
+  }
+
+
+  <style>
+  .image-container{
+      justify-content: center;
+      display: flex;
+      flex-direction: row;float: right;
+
+
+  }
