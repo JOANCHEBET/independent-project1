@@ -48,6 +48,8 @@ div{
       width: 200px;
       height: 200px;
       align-items: horizontal: ;
+      float:backdrop;
+
 
   }
   
@@ -96,3 +98,9 @@ align-items: top_right;
 
 
   }
+  img{
+      align:middle;
+  }
+  .img_item{
+	width: 300px;
+}
