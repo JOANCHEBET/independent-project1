@@ -29,7 +29,7 @@ div{
 .container {
     position: relative;
     text-align: center;
-    color: white;
+    
   }
   
   /* Bottom left text */
@@ -37,13 +37,26 @@ div{
     position: absolute;
     bottom: 8px;
     left: 16px;
-      width: 50cm;
-      height: 50cm;
+      
   }
   .top_right{
       position: top_right;
       color:#EC4067
     
   }
+  img{
+      width: 200px;
+      height: 200px;
+      align-items: horizontal: ;
+
+  }
   
   
+div{
+    align-items: horizontal;
+    text-align: center;
+
+}
+div{
+    text-align: center;
+}
