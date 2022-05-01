@@ -37,10 +37,13 @@ div{
     position: absolute;
     bottom: 8px;
     left: 16px;
+      width: 50cm;
+      height: 50cm;
   }
   .top_right{
       position: top_right;
       color:#EC4067
+    
   }
   
   
