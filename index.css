@@ -102,5 +102,18 @@ align-items: top_right;
       align:middle;
   }
   .img_item{
-	width: 300px;
+	width: 200px;
 }
+.left{
+   float: horizontal; 
+}
+<style>
+.images-container{
+    display:flex;
+    justify-content: center;
+}
+.image-container img{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+</style>
