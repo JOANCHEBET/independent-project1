@@ -117,3 +117,11 @@ align-items: top_right;
     margin-right: 5px;
 }
 </style>
+
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
