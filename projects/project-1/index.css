@@ -1,0 +1,138 @@
+
+
+
+nav{font-size: small;
+    display: flex;
+    justify-content: space-between;
+    color: #EC4067;
+    
+   
+}
+.nav.Enroll> ul>li{
+    color: #EC4067;
+}
+
+
+nav ul{
+    
+    display: flex;
+   
+}
+nav li{
+    list-style-type: none;
+    margin-right: 20px;
+    
+}
+img{width:20vw;
+    height: 20vh;
+    vertical-align: middle;
+    border: 0em;
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 0;
+    font-size: 15px;
+    padding: 0px;
+    margin: 0%;
+    justify-content: space-between;
+    
+h3{
+color:#EC4067;
+}
+.button{
+   background-color: #EC4067;
+   color: white;
+
+}
+    .img> .text.center{
+        display: inline-flexbox;
+
+    }
+
+}
+.mentors{
+    padding: 5px;
+    display: inline;
+    align-items:inherit;
+padding: auto;
+justify-content: center;
+}
+.mentors,image,text{
+    align-items: center;
+}
+.container {display: inline-block;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    display: flex;g
+    padding: position: left: 0;;
+    
+
+    
+  }
+  
+  img {
+    max-width: 100%
+
+  }
+  
+  .image {
+    flex-basis: 40%;
+    order:4;
+    justify-content: center;
+    direction: ltr;
+  }
+  
+  .text {
+    
+    padding: 0;
+    text-decoration: none;
+    text-emphasis: none;
+  }
+  a, text{
+      text-decoration: none;
+      justify-self: center;
+      justify-content: space-between;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      font-style: normal;
+      font-optical-sizing: 1em;color: black;
+
+
+  }
+  a, image{
+      display:inline;
+      justify-content: center;
+    
+      
+    
+  }
+  
+
+    .section ,image{ align-self: position: center;
+        float::content
+
+    }
+    #left>.right{
+        align-items: inherit;
+    }
+    .bike{
+        justify-content: right;
+        float: right;
+    }
+    
+    
+.left-side>.text{
+    float: left;
+}
+.right{
+    float: right;
+}
+.center{
+    float:right;
+}
+#left
+[
+    padding:20%
+    margin: 50%;
+]
